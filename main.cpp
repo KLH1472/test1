@@ -3,7 +3,7 @@ int add(int a, int b){
 }
 
 int minus(int a, int b){
-    return 0;
+    return a-b;
 }
 
 int mutiply(int a, int b){
